@@ -1,0 +1,9 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed May 28 15:55:45 2025"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": psionics
+  
