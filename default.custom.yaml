@@ -2,12 +2,10 @@ customization:
   distribution_code_name: Weasel
   distribution_version: 0.17.3
   generator: "Rime::SwitcherSettings"
-  modified_time: "Wed May 28 16:52:34 2025"
+  modified_time: "Wed May 28 18:08:53 2025"
   rime_version: 1.13.1
 patch:
-  menu/page_size: 9  # 设置候选词数量为9个
+  "menu/page_size": 9
   schema_list:
     - {schema: rime_ice}
     - {schema: double_pinyin_mspy}
-speller:
-  delimiter: ""
